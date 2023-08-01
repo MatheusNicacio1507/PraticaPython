@@ -4,8 +4,8 @@ Fazer um programa que pergunte um valor em Dólares e converta para Reais. consi
 
 print("Insira um valor em Dólares $:")
 
-doll = float(input("Inserir valor:"))
+doll = float(input("Inserir valor: $"))
 
 doll = doll * 4.74
 
-print("O valor em reais é:", doll,"R$")
+print("O valor em Reais é: R$", doll)
