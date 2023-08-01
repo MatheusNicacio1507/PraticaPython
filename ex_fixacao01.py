@@ -6,6 +6,6 @@ print("Insira um valor em Dólares $:")
 
 doll = float(input("Inserir valor: $"))
 
-doll = doll * 4.74
+doll = doll * 4.78
 
 print("O valor em Reais é: R$", doll)
